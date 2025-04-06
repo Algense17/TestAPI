@@ -93,8 +93,6 @@ final class ViewController: UIViewController {
             
         }.resume()
     }
-    
-    
 }
 
 // MARK: - Internal Methods
